@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2025-02-26 002558](https://github.com/user-attachments/assets/d43c0b27-5489-402c-9ecb-105d2711c796)# Modern-Credit-Card
+# Modern-Credit-Card
 Basit ve duyarlı bir kredi kartı arayüz tasarımı, HTML ve CSS kullanılarak oluşturulmuştur. Tasarım, modern ve minimalist bir şekilde stilize edilmiş kart numarası, son kullanma tarihi ve CVV gibi kart bilgilerini içerir.
 
  Özellikler :

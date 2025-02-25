@@ -4,25 +4,28 @@ Basit ve duyarlı bir kredi kartı arayüz tasarımı, HTML ve CSS kullanılarak
  Özellikler :
 
 ✅ Duyarlı Tasarım: Tüm cihazlarla uyumlu.
+
 ✅ Minimalist Stil: Şık ve estetik görünüm.
+
 ✅ Kolay Kullanım: Basit HTML ve Tailwind CSS yapısıyla oluşturuldu.
 
 🛠 Kullanılan Teknolojiler
 
 -HTML
+
 -CSS
 
 📥 Kurulum ve Kullanım
 
-Bu repoyu klonlayın:
+1) Bu repoyu klonlayın:
 
-git clone https://github.com/HalilKul/Modern-Credit-Card
+2) git clone https://github.com/HalilKul/Modern-Credit-Card
 
-Proje klasörüne girin:
+3) Proje klasörüne girin:
 
-cd Modern-Credit-Card
+4) cd Modern-Credit-Card
 
-HTML dosyasını tarayıcıda açarak projeyi görüntüleyin.
+5) HTML dosyasını tarayıcıda açarak projeyi görüntüleyin.
 
 📸 Ekran Görüntüsü
 
